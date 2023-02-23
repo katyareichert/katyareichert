@@ -4,7 +4,7 @@ I'm Katya (super professional spy name: Katerina Marie)
 - 🔭 I’m currently working on Google x Breakthrough Tech AI competitions via Kaggle
 - 📫 Connect with me: kpr2120@barnard.edu
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: I've traveled to 16 diff states and 19 diff countries!
+- ⚡ Fun fact: I've traveled to 16 diff states and 20 diff countries!
 
 
 <!--
