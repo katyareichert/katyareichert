@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I'm Katya (super professional spy name: Katerina Marie)
 
-- 🔭 I’m currently working on Google x Breakthrough Tech AI competitions via Kaggle
+- 🔭 I’m currently working on Expressive Game Design final project
 - 📫 Connect with me: katerinamreichert@gmail.com
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I've traveled to 16 diff states and 20 diff countries!
