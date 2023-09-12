@@ -4,7 +4,7 @@ I'm Katya (super professional spy name: Katerina Marie)
 - 🔭 I’m currently working on Expressive Game Design final project
 - 📫 Connect with me: katerinamreichert@gmail.com
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: I've traveled to 16 diff states and 20 diff countries!
+- ⚡ Fun fact: I've traveled to 17 diff states and 22 diff countries!
 
 
 <!--
