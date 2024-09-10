@@ -1,8 +1,8 @@
 ### Hi there 👋 
 I'm Katya! I'm an MS in CS student @ Columbia University
 
-- 🔭 I’m currently working on Color Analysis Website
-- 📫 Connect with me: katerinamreichert@gmail.com
+- 🔭 I’m currently working on Design for Generative AI
+- 📫 Connect with me: katya.reichert@columbia.edu
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I've traveled to 17 diff states and 22 diff countries!
 
